@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">recyclerview_22_starry</string>
+    <string name="manga_name">Manga:</string>
+    <string name="description">description</string>
+</resources>
